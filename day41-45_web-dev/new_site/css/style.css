@@ -1,0 +1,123 @@
+/******************** MAIN ********************/
+
+body {
+    background-color: #191919;
+    color:cornsilk;
+    margin: 0;
+    font-family: 'Cairo', sans-serif;
+    font-size: 1rem;
+}
+h1 {
+    margin: 0 auto 0 auto;
+    font-size: 4.5rem;
+}
+h2 {
+    color: #B1E4F9
+}
+h3 {
+    color: #407093
+}
+p {
+    line-height: 2;
+}
+a {
+    color: #407093;
+    text-decoration: none;
+}
+a:hover {
+    color: #74CDF8;
+}
+
+/******************** CLASSES ********************/
+
+.top-fighters {
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: crisp-edges;
+    width: 200px;
+    position: relative;
+    left: 70%;
+}
+.bottom-fighters {
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: crisp-edges;
+    width: 200px;
+    position: relative;
+    left: 15%;
+}
+.color-separator {
+    margin: 0
+}
+.half-separator {
+    margin: 50px auto 50px auto;
+    width: 30%;
+}
+.profile {
+    text-align: center;
+}
+.profile_img {
+    border-radius: 100%;
+}
+.ufabc_logo {
+    width: 100px;
+}
+.skills {
+    text-align: center;
+}
+.skill-row {
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+}
+.contact-me {
+    margin: 0 auto 0 auto;
+    text-align: center;
+    width: 50%;
+}
+.btn {
+    border-radius: 8px;
+    font-family: 'Cairo', sans-serif;
+    color: white;
+    font-size: 20px;
+    background: #407093;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+.btn:hover {
+    background: #74CDF8;
+    text-decoration: none;
+}
+.icon {
+    width: 100px;
+    float: left;
+    margin: auto 50px 100px auto;
+}
+.footer-link {
+    margin: auto 10px auto 10px;
+}
+
+/******************** IDs ********************/
+
+#logo-div {
+    text-align: center;
+    padding: 0;
+}
+#logo-subtitle {
+    margin: 0 auto 0 auto;
+    font-size: 1.5rem;
+}
+#top-container {
+    width: 15%;
+    background-color: rgb(14, 12, 10);
+    width: 100%;
+}
+#middle-container {
+    margin: 50px auto 80px auto;
+}
+#bottom-container {
+    background-color: rgb(14, 12, 10);
+    padding-top: 30px;
+    padding-bottom: 20px;
+    text-align: center;
+}

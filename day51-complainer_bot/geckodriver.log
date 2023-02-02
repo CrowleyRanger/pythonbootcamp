@@ -1,0 +1,214 @@
+1631907312451	geckodriver	INFO	Listening on 127.0.0.1:23995
+1631907315476	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\MRCC50~1.NAC\\AppData\\Local\\Temp\\rust_mozprofileHmfLmI"
+1631907315904	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mr.Nachos\\AppData\\Local\\Temp\\rust_mozprofileHmfLmI\\search.json.mozlz4", (void 0)))
+1631907318550	Marionette	INFO	Listening on port 24003
+1631907318637	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YqSUqZI0IRdbUAy163IJKnGw-hEMSU1MpsI8iakDbOc.js line 1 > eval line 1383 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YqSUqZI0IRdbUAy163IJKnGw-hEMSU1MpsI8iakDbOc.js line 1 > eval line 1622 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YqSUqZI0IRdbUAy163IJKnGw-hEMSU1MpsI8iakDbOc.js line 1 > eval line 7399 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YqSUqZI0IRdbUAy163IJKnGw-hEMSU1MpsI8iakDbOc.js line 1 > eval line 7304 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YqSUqZI0IRdbUAy163IJKnGw-hEMSU1MpsI8iakDbOc.js line 1 > eval line 7200 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://tags.mmi360.net/mmi-zip.js?cust=Cisco&type=js&plat=CM360&mode=ivt-blk&advid=5906404&siteid=4497788&cmpnid=26259668&pcmtid=310758387&crtvid=155922894&rndnum=4272296240&site=N7442.1972103DOUBLECLICKBIDMANAG&adid=503357621&aucid=ABAjH0iZ-0NRvp3xCtmHHtz_oYxh&exchid=1&sellid=6587084675 line 1 > eval line 1 > eval, line 22: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://tags.mmi360.net/mmi-zip.js?cust=Cisco&type=js&plat=CM360&mode=ivt-blk&advid=5906404&siteid=4497788&cmpnid=26259668&pcmtid=310758387&crtvid=155922894&rndnum=653086787&site=N7442.1972103DOUBLECLICKBIDMANAG&adid=503357621&aucid=ABAjH0h-E20aRlyCq1UVDMVW7-Vx&exchid=1&sellid=6587084675 line 1 > eval line 1 > eval, line 22: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://tags.mmi360.net/mmi-zip.js?cust=Cisco&type=js&plat=CM360&mode=ivt-blk&advid=5906404&siteid=4497788&cmpnid=26259668&pcmtid=310758387&crtvid=155922900&rndnum=3736332880&site=N7442.1972103DOUBLECLICKBIDMANAG&adid=503357621&aucid=ABAjH0j4_BF3dChg9Cp6cXyxXCUt&exchid=1&sellid=6587084675 line 1 > eval line 1 > eval, line 22: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YqSUqZI0IRdbUAy163IJKnGw-hEMSU1MpsI8iakDbOc.js line 1 > eval line 5144 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1631907464110	Marionette	INFO	Stopped listening on port 24003
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631907549226	geckodriver	INFO	Listening on 127.0.0.1:27037
+1631907552290	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\MRCC50~1.NAC\\AppData\\Local\\Temp\\rust_mozprofilew9rpSY"
+1631907552706	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mr.Nachos\\AppData\\Local\\Temp\\rust_mozprofilew9rpSY\\search.json.mozlz4", (void 0)))
+1631907555179	Marionette	INFO	Listening on port 27046
+1631907555461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631907559653	Marionette	INFO	Stopped listening on port 27046
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631907598695	geckodriver	INFO	Listening on 127.0.0.1:27175
+1631907601749	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\MRCC50~1.NAC\\AppData\\Local\\Temp\\rust_mozprofile8gw8Xw"
+1631907602162	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mr.Nachos\\AppData\\Local\\Temp\\rust_mozprofile8gw8Xw\\search.json.mozlz4", (void 0)))
+1631907604518	Marionette	INFO	Listening on port 27183
+1631907604926	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631907607206	Marionette	INFO	Stopped listening on port 27183
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631907679628	geckodriver	INFO	Listening on 127.0.0.1:27288
+1631907682668	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\MRCC50~1.NAC\\AppData\\Local\\Temp\\rust_mozprofileAs01ge"
+1631907683073	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mr.Nachos\\AppData\\Local\\Temp\\rust_mozprofileAs01ge\\search.json.mozlz4", (void 0)))
+1631907685791	Marionette	INFO	Listening on port 27296
+1631907685850	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631907689316	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631907689320	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631907689323	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: moz-extension://7e6a59f5-d2e0-4b78-8826-e216d9edf54c/shims/google-safeframe.html, line 26: ReferenceError: osdlfm is not defined
+JavaScript error: moz-extension://7e6a59f5-d2e0-4b78-8826-e216d9edf54c/shims/google-safeframe.html, line 26: ReferenceError: osdlfm is not defined
+JavaScript error: moz-extension://7e6a59f5-d2e0-4b78-8826-e216d9edf54c/shims/google-safeframe.html, line 26: ReferenceError: osdlfm is not defined
+JavaScript error: moz-extension://7e6a59f5-d2e0-4b78-8826-e216d9edf54c/shims/google-safeframe.html, line 26: ReferenceError: googqscp is not defined
+JavaScript error: moz-extension://7e6a59f5-d2e0-4b78-8826-e216d9edf54c/shims/google-safeframe.html, line 26: ReferenceError: googqscp is not defined
+JavaScript error: moz-extension://7e6a59f5-d2e0-4b78-8826-e216d9edf54c/shims/google-safeframe.html, line 26: ReferenceError: googqscp is not defined
+JavaScript error: moz-extension://7e6a59f5-d2e0-4b78-8826-e216d9edf54c/shims/google-safeframe.html, line 39: ReferenceError: osdlfm is not defined
+JavaScript error: https://cdn.ampproject.org/rtv/012109032350000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/en.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012109032350000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/en.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012109032350000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/icon.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012109032350000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/en.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012109032350000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/en.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012109032350000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/en.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012109032350000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/en.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012109032350000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/en.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012109032350000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/en.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012109032350000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/en.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012109032350000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/en.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012109032350000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/en.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012109032350000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/en.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012109032350000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/en.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012109032350000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/en.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012109032350000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/en.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012109032350000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/en.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012109032350000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/en.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012109032350000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/en.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012109032350000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/en.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012109032350000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/en.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012109032350000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/en.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012109032350000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/en.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012109032350000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/en.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012109032350000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/en.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012109032350000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/en.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012109032350000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/en.png​​​
+JavaScript error: https://cdn.ampproject.org/rtv/012109032350000/amp4ads-v0.mjs, line 2: Error: Failed to load: https://tpc.googlesyndication.com/pagead/images/abg/en.png​​​
+1631907691895	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631907691898	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631907691900	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631907691903	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631907691904	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631907691993	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631907692048	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631907692051	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631907692056	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631907692059	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631907702206	Marionette	INFO	Stopped listening on port 27296
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631907771718	geckodriver	INFO	Listening on 127.0.0.1:27458
+1631907774772	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\MRCC50~1.NAC\\AppData\\Local\\Temp\\rust_mozprofilerCidwk"
+1631907775165	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mr.Nachos\\AppData\\Local\\Temp\\rust_mozprofilerCidwk\\search.json.mozlz4", (void 0)))
+1631907777506	Marionette	INFO	Listening on port 27467
+1631907777945	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631907783107	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631907783111	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631907783115	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631907783117	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631907783120	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631907783197	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631907783336	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631907783340	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631907783345	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631907783349	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631907791717	Marionette	INFO	Stopped listening on port 27467
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631908458811	geckodriver	INFO	Listening on 127.0.0.1:27752
+1631908461854	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "-no-remote" "-profile" "C:\\Users\\MRCC50~1.NAC\\AppData\\Local\\Temp\\rust_mozprofilefUMNab"
+1631908462249	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mr.Nachos\\AppData\\Local\\Temp\\rust_mozprofilefUMNab\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1631908465029	Marionette	INFO	Listening on port 27760
+1631908465551	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631908471761	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631908471765	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631908471770	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631908471773	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631908471807	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631908471861	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631908471896	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631908471899	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631908471907	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631908471910	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631908707934	Marionette	INFO	Stopped listening on port 27760
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+cal\\Temp\\rust_mozprofileyTgYY6"
+1631908708083	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mr.Nachos\\AppData\\Local\\Temp\\rust_mozprofileyTgYY6\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1631908710505	Marionette	INFO	Listening on port 27965
+1631908710826	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://6557f93dc480f753c00945281f645830.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 13: ReferenceError: buildAttribution is not defined
+JavaScript error: https://6557f93dc480f753c00945281f645830.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 13: ReferenceError: osdlfm is not defined
+1631908714257	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631908714262	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631908714264	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631908714267	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://6557f93dc480f753c00945281f645830.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 13: ReferenceError: buildAttribution is not defined
+JavaScript error: https://6557f93dc480f753c00945281f645830.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 13: ReferenceError: osdlfm is not defined
+JavaScript error: https://6557f93dc480f753c00945281f645830.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 13: ReferenceError: googqscp is not defined
+1631908714278	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://6557f93dc480f753c00945281f645830.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 13: ReferenceError: googqscp is not defined
+JavaScript error: https://6557f93dc480f753c00945281f645830.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 13: ReferenceError: osdlfm is not defined
+JavaScript error: https://6557f93dc480f753c00945281f645830.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 13: ReferenceError: osdlfm is not defined
+JavaScript error: https://6557f93dc480f753c00945281f645830.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 13: ReferenceError: osdlfm is not defined
+JavaScript error: https://6557f93dc480f753c00945281f645830.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 13: ReferenceError: googqscp is not defined
+JavaScript error: https://6557f93dc480f753c00945281f645830.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 13: ReferenceError: googqscp is not defined
+JavaScript error: https://6557f93dc480f753c00945281f645830.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 13: ReferenceError: googqscp is not defined
+1631908716213	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631908716224	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631908716226	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631908716227	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631908716229	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631908716367	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631908716378	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631908716381	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631908716383	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631908716384	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631908881916	Marionette	INFO	Stopped listening on port 27961631908882542	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "-no-remote" "-profile" "C:\\Users\\MRCC50~1.NAC\\AppData\\Local\\Temp\\rust_mozprofileVhjIyl"
+1631908882950	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mr.Nachos\\AppData\\Local\\Temp\\rust_mozprofileVhjIyl\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1631908885380	Marionette	INFO	Listening on port 28161
+1631908885728	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631908891127	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631908891131	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631908891134	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631908891138	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631908891140	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631908891235	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631908891250	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631908891251	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631908891252	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631908891256	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631908971771	Marionette	INFO	Stopped listening on port 28161
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631911009497	geckodriver	INFO	Listening on 127.0.0.1:15629
+1631911012542	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "-no-remote" "-profile" "C:\\Users\\MRCC50~1.NAC\\AppData\\Local\\Temp\\rust_mozprofileWdNjMz"
+1631911012981	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mr.Nachos\\AppData\\Local\\Temp\\rust_mozprofileWdNjMz\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1631911015728	Marionette	INFO	Listening on port 15637
+1631911016224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631911016663	Marionette	INFO	Stopped listening on port 15637
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1631911020045	geckodriver	INFO	Listening on 127.0.0.1:15669

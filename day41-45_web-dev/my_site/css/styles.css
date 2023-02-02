@@ -1,0 +1,54 @@
+body {
+    background-color: #0a1931;
+    color: #feddbe;
+    font-family:'Courier New', Courier, monospace;
+    margin: 0
+}
+div {
+    background-color: rgb(19,19,19);
+    height: 50px;
+}
+h1, h2 {
+    color: #185adb;
+}
+img {
+    padding: 20px;
+}
+hr {
+    border-style: solid none none;
+    color: #ffc947;
+}
+td {
+    padding-left: 10px;
+    vertical-align: top;
+}
+.box {
+    height: 30px;
+    line-height: 30px;
+    padding: 10px;
+}
+.center {
+    width: 15%;
+    margin: 0 auto 0 auto
+}
+.profile_img {
+    border-radius: 100%;
+}
+.in_progress_color {
+    color: yellow
+}
+.completed_color {
+    color: green
+}
+.gray_color {
+    color: gray
+}
+.margin-top_0 {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin: 0;
+}
+.padding_vertical_20 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
