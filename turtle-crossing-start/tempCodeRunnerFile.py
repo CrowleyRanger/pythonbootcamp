@@ -1,1 +1,0 @@
-interface.draw_lines()
